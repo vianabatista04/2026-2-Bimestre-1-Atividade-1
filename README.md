@@ -4,6 +4,7 @@
 
 - **Público alvo**: alunos da disciplina de **Sistemas Operacionais** do curso de [TADS](https://diatinf.ifrn.edu.br/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/) na [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
+- **Aluna**: [Maria Clara Batista Viana Silva](https://github.com/vianabatista04) 
 - **Objetivo**:
   1. Praticar criar uma imagem e contêineres com Docker
 
